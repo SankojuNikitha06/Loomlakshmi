@@ -1,0 +1,290 @@
+[
+  {
+    "id": "W001",
+    "name": "Rani Devi",
+    "region": "Nagaland",
+    "specialties": ["Cotton Sarees", "Banarasi Saree"],
+    "experience_years": 11,
+    "saree_types": ["Khadi", "Chiffon"],
+    "patterns_available": ["Bandhani", "Geometric"],
+    "gallery_images": [
+      "https://picsum.photos/seed/0-0/300/200",
+      "https://picsum.photos/seed/0-1/300/200",
+      "https://picsum.photos/seed/0-2/300/200"
+    ],
+    "languages": ["English", "Telugu"],
+    "bio": "Rani Devi is a skilled weaver from Nagaland with expertise in Cotton Sarees, Banarasi Saree.",
+    "profile_image": "https://picsum.photos/seed/profile-0/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W002",
+    "name": "Radha Chauhan",
+    "region": "Assam",
+    "specialties": ["Kanjivaram Saree", "Banarasi Saree"],
+    "experience_years": 27,
+    "saree_types": ["Cotton", "Khadi"],
+    "patterns_available": ["Paisley", "Temple Borders"],
+    "gallery_images": [
+      "https://picsum.photos/seed/1-0/300/200",
+      "https://picsum.photos/seed/1-1/300/200",
+      "https://picsum.photos/seed/1-2/300/200"
+    ],
+    "languages": ["Tamil", "English"],
+    "bio": "Radha Chauhan is a skilled weaver from Assam with expertise in Kanjivaram Saree, Banarasi Saree.",
+    "profile_image": "https://picsum.photos/seed/profile-1/300/200",
+    "contact_enabled": true
+  },
+  {
+    "id": "W003",
+    "name": "Lalita Patel",
+    "region": "Kanchipuram, Tamil Nadu",
+    "specialties": ["Kanjivaram Saree", "Banarasi Saree"],
+    "experience_years": 13,
+    "saree_types": ["Khadi", "Cotton"],
+    "patterns_available": ["Geometric", "Paisley"],
+    "gallery_images": [
+      "https://picsum.photos/seed/2-0/300/200",
+      "https://picsum.photos/seed/2-1/300/200",
+      "https://picsum.photos/seed/2-2/300/200"
+    ],
+    "languages": ["Tamil", "English"],
+    "bio": "Lalita Patel is a skilled weaver from Kanchipuram, Tamil Nadu with expertise in Kanjivaram Saree, Banarasi Saree.",
+    "profile_image": "https://picsum.photos/seed/profile-2/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W004",
+    "name": "Usha Rani",
+    "region": "Madhya Pradesh",
+    "specialties": ["Kanjivaram Saree", "Bandhani"],
+    "experience_years": 6,
+    "saree_types": ["Cotton", "Khadi"],
+    "patterns_available": ["Paisley", "Geometric"],
+    "gallery_images": [
+      "https://picsum.photos/seed/3-0/300/200",
+      "https://picsum.photos/seed/3-1/300/200",
+      "https://picsum.photos/seed/3-2/300/200"
+    ],
+    "languages": ["Tamil", "English"],
+    "bio": "Usha Rani is a skilled weaver from Madhya Pradesh with expertise in Kanjivaram Saree, Bandhani.",
+    "profile_image": "https://picsum.photos/seed/profile-3/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W005",
+    "name": "Sunita Kumari",
+    "region": "Nagaland",
+    "specialties": ["Zari Work", "Kanjivaram Saree"],
+    "experience_years": 5,
+    "saree_types": ["Linen", "Khadi"],
+    "patterns_available": ["Temple Borders", "Ikat"],
+    "gallery_images": [
+      "https://picsum.photos/seed/4-0/300/200",
+      "https://picsum.photos/seed/4-1/300/200",
+      "https://picsum.photos/seed/4-2/300/200"
+    ],
+    "languages": ["Hindi", "Bengali"],
+    "bio": "Sunita Kumari is a skilled weaver from Nagaland with expertise in Zari Work, Kanjivaram Saree.",
+    "profile_image": "https://picsum.photos/seed/profile-4/300/200",
+    "contact_enabled": true
+  },
+  {
+    "id": "W006",
+    "name": "Meena Sharma",
+    "region": "Kanchipuram, Tamil Nadu",
+    "specialties": ["Banarasi Saree", "Zari Work"],
+    "experience_years": 13,
+    "saree_types": ["Linen", "Khadi"],
+    "patterns_available": ["Temple Borders", "Ikat"],
+    "gallery_images": [
+      "https://picsum.photos/seed/5-0/300/200",
+      "https://picsum.photos/seed/5-1/300/200",
+      "https://picsum.photos/seed/5-2/300/200"
+    ],
+    "languages": ["Bengali", "English"],
+    "bio": "Meena Sharma is a skilled weaver from Kanchipuram, Tamil Nadu with expertise in Banarasi Saree, Zari Work.",
+    "profile_image": "https://picsum.photos/seed/profile-5/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W007",
+    "name": "Savita Joshi",
+    "region": "Assam",
+    "specialties": ["Bandhani", "Kanjivaram Saree"],
+    "experience_years": 23,
+    "saree_types": ["Silk", "Khadi"],
+    "patterns_available": ["Geometric", "Floral"],
+    "gallery_images": [
+      "https://picsum.photos/seed/6-0/300/200",
+      "https://picsum.photos/seed/6-1/300/200",
+      "https://picsum.photos/seed/6-2/300/200"
+    ],
+    "languages": ["Tamil", "Telugu"],
+    "bio": "Savita Joshi is a skilled weaver from Assam with expertise in Bandhani, Kanjivaram Saree.",
+    "profile_image": "https://picsum.photos/seed/profile-6/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W008",
+    "name": "Poonam Yadav",
+    "region": "Madhya Pradesh",
+    "specialties": ["Bandhani", "Silk Weaving"],
+    "experience_years": 18,
+    "saree_types": ["Chiffon", "Silk"],
+    "patterns_available": ["Bandhani", "Temple Borders"],
+    "gallery_images": [
+      "https://picsum.photos/seed/7-0/300/200",
+      "https://picsum.photos/seed/7-1/300/200",
+      "https://picsum.photos/seed/7-2/300/200"
+    ],
+    "languages": ["Hindi", "English"],
+    "bio": "Poonam Yadav is a skilled weaver from Madhya Pradesh with expertise in Bandhani, Silk Weaving.",
+    "profile_image": "https://picsum.photos/seed/profile-7/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W009",
+    "name": "Usha Rani",
+    "region": "Madhya Pradesh",
+    "specialties": ["Bandhani", "Cotton Sarees"],
+    "experience_years": 22,
+    "saree_types": ["Khadi", "Cotton"],
+    "patterns_available": ["Temple Borders", "Ikat"],
+    "gallery_images": [
+      "https://picsum.photos/seed/8-0/300/200",
+      "https://picsum.photos/seed/8-1/300/200",
+      "https://picsum.photos/seed/8-2/300/200"
+    ],
+    "languages": ["Hindi", "Bengali"],
+    "bio": "Usha Rani is a skilled weaver from Madhya Pradesh with expertise in Bandhani, Cotton Sarees.",
+    "profile_image": "https://picsum.photos/seed/profile-8/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W010",
+    "name": "Meena Sharma",
+    "region": "Kanchipuram, Tamil Nadu",
+    "specialties": ["Block Print", "Zari Work"],
+    "experience_years": 8,
+    "saree_types": ["Linen", "Cotton"],
+    "patterns_available": ["Floral", "Paisley"],
+    "gallery_images": [
+      "https://picsum.photos/seed/9-0/300/200",
+      "https://picsum.photos/seed/9-1/300/200",
+      "https://picsum.photos/seed/9-2/300/200"
+    ],
+    "languages": ["Hindi", "Telugu"],
+    "bio": "Meena Sharma is a skilled weaver from Kanchipuram, Tamil Nadu with expertise in Block Print, Zari Work.",
+    "profile_image": "https://picsum.photos/seed/profile-9/300/200",
+    "contact_enabled": true
+  },
+  {
+    "id": "W011",
+    "name": "Meena Sharma",
+    "region": "Nagaland",
+    "specialties": ["Zari Work", "Ikat"],
+    "experience_years": 22,
+    "saree_types": ["Linen", "Silk"],
+    "patterns_available": ["Bandhani", "Paisley"],
+    "gallery_images": [
+      "https://picsum.photos/seed/10-0/300/200",
+      "https://picsum.photos/seed/10-1/300/200",
+      "https://picsum.photos/seed/10-2/300/200"
+    ],
+    "languages": ["Telugu", "Tamil"],
+    "bio": "Meena Sharma is a skilled weaver from Nagaland with expertise in Zari Work, Ikat.",
+    "profile_image": "https://picsum.photos/seed/profile-10/300/200",
+    "contact_enabled": true
+  },
+  {
+    "id": "W012",
+    "name": "Sunita Kumari",
+    "region": "Surat, Gujarat",
+    "specialties": ["Banarasi Saree", "Cotton Sarees"],
+    "experience_years": 29,
+    "saree_types": ["Chiffon", "Cotton"],
+    "patterns_available": ["Temple Borders", "Paisley"],
+    "gallery_images": [
+      "https://picsum.photos/seed/11-0/300/200",
+      "https://picsum.photos/seed/11-1/300/200",
+      "https://picsum.photos/seed/11-2/300/200"
+    ],
+    "languages": ["Tamil", "Bengali"],
+    "bio": "Sunita Kumari is a skilled weaver from Surat, Gujarat with expertise in Banarasi Saree, Cotton Sarees.",
+    "profile_image": "https://picsum.photos/seed/profile-11/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W013",
+    "name": "Rani Devi",
+    "region": "Rajasthan",
+    "specialties": ["Ikat", "Silk Weaving"],
+    "experience_years": 12,
+    "saree_types": ["Silk", "Khadi"],
+    "patterns_available": ["Ikat", "Temple Borders"],
+    "gallery_images": [
+      "https://picsum.photos/seed/12-0/300/200",
+      "https://picsum.photos/seed/12-1/300/200",
+      "https://picsum.photos/seed/12-2/300/200"
+    ],
+    "languages": ["Hindi", "Tamil"],
+    "bio": "Rani Devi is a skilled weaver from Rajasthan with expertise in Ikat, Silk Weaving.",
+    "profile_image": "https://picsum.photos/seed/profile-12/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W014",
+    "name": "Kamla Bai",
+    "region": "Bihar",
+    "specialties": ["Block Print", "Cotton Sarees"],
+    "experience_years": 3,
+    "saree_types": ["Khadi", "Cotton"],
+    "patterns_available": ["Floral", "Ikat"],
+    "gallery_images": [
+      "https://picsum.photos/seed/13-0/300/200",
+      "https://picsum.photos/seed/13-1/300/200",
+      "https://picsum.photos/seed/13-2/300/200"
+    ],
+    "languages": ["Telugu", "English"],
+    "bio": "Kamla Bai is a skilled weaver from Bihar with expertise in Block Print, Cotton Sarees.",
+    "profile_image": "https://picsum.photos/seed/profile-13/300/200",
+    "contact_enabled": true
+  },
+  {
+    "id": "W015",
+    "name": "Geeta Devi",
+    "region": "Nagaland",
+    "specialties": ["Block Print", "Silk Weaving"],
+    "experience_years": 28,
+    "saree_types": ["Chiffon", "Linen"],
+    "patterns_available": ["Geometric", "Temple Borders"],
+    "gallery_images": [
+      "https://picsum.photos/seed/14-0/300/200",
+      "https://picsum.photos/seed/14-1/300/200",
+      "https://picsum.photos/seed/14-2/300/200"
+    ],
+    "languages": ["English", "Telugu"],
+    "bio": "Geeta Devi is a skilled weaver from Nagaland with expertise in Block Print, Silk Weaving.",
+    "profile_image": "https://picsum.photos/seed/profile-14/300/200",
+    "contact_enabled": false
+  },
+  {
+    "id": "W016",
+    "name": "Meena Sharma",
+    "region": "Kanchipuram, Tamil Nadu",
+    "specialties": ["Zari Work", "Bandhani"],
+    "experience_years": 7,
+    "saree_types": ["Cotton", "Linen"],
+    "patterns_available": ["Geometric", "Temple Borders"],
+    "gallery_images": [
+      "https://picsum.photos/seed/15-0/300/200",
+      "https://picsum.photos/seed/15-1/300/200",
+      "https://picsum.photos/seed/15-2/300/200"
+    ],
+    "languages": ["English", "Tamil"],
+    "bio": "Meena Sharma is a skilled weaver from Kanchipuram, Tamil Nadu with expertise in Zari Work, Bandhani.",
+    "profile_image": "https://picsum.photos/seed/profile-15/300/200",
+    "contact_enabled": true
+  }
+]
